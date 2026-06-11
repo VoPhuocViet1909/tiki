@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+log.txt
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Data files (có thể chứa thông tin nhạy cảm)
+codes.txt
+data.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Puppeteer
+.local-chromium/

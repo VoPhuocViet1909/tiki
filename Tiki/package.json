@@ -1,0 +1,23 @@
+{
+  "name": "tiki-gift-code-automation",
+  "version": "1.0.0",
+  "description": "Tự động nạp mã quà tặng vào Tiki.vn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiki",
+    "puppeteer",
+    "automation",
+    "gift-code"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.11.0",
+    "csv-parser": "^3.0.0",
+    "readline": "^1.3.0"
+  }
+}

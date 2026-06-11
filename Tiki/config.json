@@ -1,0 +1,8 @@
+{
+  "provider": "UrBox",
+  "delayBetweenCodes": 5000,
+  "url": "https://tiki.vn/customer/reward?searchredirect=1",
+  "inputSelector": "input.redeem__input",
+  "submitButtonSelector": "button.redeem__btn",
+  "dataSource": "codes.txt"
+}
